@@ -3,14 +3,39 @@
 
 @import "bootstrap/functions";
 
-$body-bg: #222;
-$body-color: #ddd;
+$font-family-sans-serif: "Inter", "Helvetica Neue", sans-serif;
+$line-height-base: 1.625;
 
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
 
+$body-bg: $teal-100;
+$body-color: $teal-800;
+
 @import "bootstrap/root";
 @import "bootstrap/reboot";
+
+$spacers: map-merge($spacers, (
+        6: $spacer * 4.5,
+        7: $spacer * 6,
+));
+
+$letter-spacings: (
+        1: 0.01em,
+        2: 0.02em,
+        3: 0.03em,
+        4: 0.04em,
+        5: 0.05em,
+);
+
+$utilities: (
+        "letter-spacing": (
+                property: letter-spacing,
+                values: (
+                        map-merge($letter-spacings, negativify-map($letter-spacings))
+                )
+        )
+);
 
 @import "bootstrap/utilities";
 @import "bootstrap/utilities/api";
