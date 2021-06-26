@@ -9,8 +9,8 @@ $line-height-base: 1.625;
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
 
-$body-bg: $teal-100;
-$body-color: $teal-800;
+$body-bg: $cyan-900;
+$body-color: $cyan-100;
 
 @import "bootstrap/root";
 @import "bootstrap/reboot";
@@ -70,3 +70,5 @@ $utilities: (
 @import "bootstrap/carousel";
 @import "bootstrap/spinners";
 @import "bootstrap/offcanvas";
+
+@import "prose";
