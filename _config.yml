@@ -13,9 +13,9 @@ exclude:
   - package.json
   - package-lock.json
 
-author: Jing Tian Feng
-title: Jekytrap
-tagline: SSG made simple
-description: Template for Jekyll + Bootstrap 5
-url: https://jingtianfeng.github.io/jekytrap
+author: (AUTHOR)
+title: (TITLE)
+tagline: (TAGLINE)
+description: (DESCRIPTION)
+url: (URL)
 logo: /assets/img/logo.png
