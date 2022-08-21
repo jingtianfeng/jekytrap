@@ -3,7 +3,7 @@ layout: "post"
 title: "Privacy Policy"
 ---
 
-# Privacy Policy
+# Privacy policy
 
 Last Updated on {{ site.time | date_to_string: "ordinal", "US" }}
 
@@ -29,7 +29,7 @@ visiting the website or performing any Actions (as defined below), you consent t
 privacy policy was created with the help of [Plug and Law](https://plugandlaw.com/privacy-policy-generator)
 and [Privacy Policy Solutions](https://privacypolicysolutions.com).
 
-## INFORMATION WE COLLECT AND HOW WE COLLECT IT
+## Information we collect and how we collect it
 
 The following describes the categories of personal information we collect and how we collect such information.
 
@@ -68,7 +68,7 @@ diagnostic data. Examples of additional data we may receive when you access our 
 the type of mobile device you are using, the unique mobile device ID, your mobile operating system, web browser software
 on mobile, unique device identifiers and other diagnostic data.
 
-## PURPOSES FOR COLLECTING INFORMATION
+## Purposes for collecting information
 
 We use your information for business and commercial purposes. For example, we may use your information to:
 
@@ -97,7 +97,7 @@ We use your information for business and commercial purposes. For example, we ma
 - Comply with all applicable law.
 - Respond to legal and regulatory inquiries and assist law enforcement.
 
-## THIRD PARTIES WE SHARE INFORMATION WITH
+## Third parties we share information with
 
 The following is a list of third parties that we may share your information with or for.
 
@@ -160,12 +160,12 @@ auditors, consultants, lawyers, and other professionals who rely on the data to 
 **Third Party Partners**. We may share your information with third parties we have partnered with to jointly create or
 offer a product, service or joint promotion.
 
-## WE DO NOT SELL YOUR PERSONAL INFORMATION
+## We do not sell your personal information
 
 We do not sell, rent or trade your personal information to any third parties, as we value your privacy. We also do not
 “sell” your personal information as defined by the California Consumer Privacy Act.
 
-## COOKIES AND OTHER TRACKING TECHNOLOGIES
+## Cookies and other tracking technologies
 
 We may collect and access, and may permit our business partners and third party service providers, such as advertising
 companies, to collect and access your Internet Protocol (IP) address, browsing metadata and other numerical identifiers,
@@ -185,7 +185,7 @@ providers and their use of such tracking technologies. We cannot and do not cont
 of any third party service providers. We encourage you to visit their websites directly to learn about their privacy
 policies.
 
-## YOUR CHOICES
+## Your choices
 
 It is important to us that you understand your choices regarding your personal information.
 
@@ -216,20 +216,20 @@ about any Products you purchase.
 **Other Opt-Out Options**. If we send you physical mailings or short message service
 (SMS) messages or contact you via telephone, you can opt-out by contacting us using the contact details provided below.
 
-## DATA RETENTION
+## Data retention
 
 We retain personal information as long as it is needed to conduct and operate our business or until you ask us to delete
 your personal information by contacting us using the contact details provided below. Please note that we cannot control
 the data retention policies of third parties.
 
-## THIRD PARTY LINKS
+## Third party links
 
 For your convenience, we provide links to third party websites on our website, such as links to third party social media
 platforms. If you click on a link to a third party website, you will be directed to a third party website. We cannot and
 do not control the privacy policies, content and practices of the website owners and operators of any of the third party
 websites that we link to. We encourage you to visit their websites directly to learn about their privacy policies.
 
-## HOW WE PROTECT YOUR PERSONAL INFORMATION
+## How we protect your personal information
 
 We care about the security of your personal information, so we maintain reasonable and appropriate physical, technical
 and procedural safeguards to help keep it safe. While we take reasonable steps to protect your personal information, no
@@ -238,7 +238,7 @@ that personal information you transmit will remain secure from misuse or interce
 consenting to this Privacy Policy, you acknowledge that we cannot guarantee that your personal information will be
 protected from misuse or interception by third parties.
 
-## INTERNATIONAL DATA, TRANSFERS AND PROCESSING
+## International data, transfers and processing
 
 Our website is intended for individuals located within Canada. Please be aware that our website servers and our service
 providers may be located outside of your state, province or country. As a result, some of your personal information may
@@ -248,7 +248,7 @@ personal information, Browsing Information and communications related to or aris
 governed by the applicable laws in Canada. While we have the appropriate safeguards in place, the applicable privacy
 laws in Canada may be less stringent than those of your state, province or country.
 
-## NOTICE ABOUT THE GENERAL DATA PROTECTION REGULATION (GDPR NOTICE)
+## Notice about the general data protection regulation (GDPR notice)
 
 The information in this section, under the subheading “Notice About the General Data Protection Regulation”, applies to
 individuals covered by the General Data Protection Regulation (“GDPR”). References to “you” and “your” in this section
@@ -323,7 +323,7 @@ you rely on this as an accurate or exhaustive list of your rights.
 To exercise any of your rights, please contact us using the contact details provided below. We are required to verify
 the identity of anyone who makes any request.
 
-## NOTICE TO CALIFORNIA RESIDENTS (CCPA NOTICE)
+## Notice to california residents (CCPA notice)
 
 The information in this section, under the subheading “Notice to California Residents”, applies to residents of
 California. References to “you” and “your” in this section refer only to residents of California. The California
@@ -368,18 +368,18 @@ summary nor should you rely on this as an accurate or exhaustive list of your ri
 To exercise any of your rights, please contact us using the contact details provided below. We are required to verify
 the identity of anyone who makes any request.
 
-## NOTICE TO CALIFORNIA RESIDENTS (California's "Shine the Light" Law)
+## Notice to California residents (California's "Shine The Light" law)
 
 We do not share your personal information with third parties who we know or have reason to know may use your personal
 information for “direct marketing purposes” as contemplated by California’s “Shine the Light” law (Civil Code Section §
 1798.83).
 
-## NOTICE TO NEVADA RESIDENTS
+## Notice to Nevada residents
 
 We do not exchange your personal information for monetary consideration with anyone who will license or sell your
 personal information to third parties.
 
-## CHILDREN'S PRIVACY
+## Children's privacy
 
 This website is not directed towards or designed for use by children under the age of 18. This website and the
 information contained on it is specifically designed for individuals over the age of 18. If you are under the age of 18,
@@ -387,7 +387,7 @@ you must not access this website or perform any of the Actions. We do not knowin
 personal information from children under the age of 18. If you know or have reason to believe that we have collected
 data from anyone under the age of 18, please contact us using the contact details provided for removal of that data.
 
-## CHANGES TO THE PRIVACY POLICY
+## Changes to the privacy policy
 
 We reserve the right to change, amend or modify this Privacy Policy at any time. We will alert you to any changes by
 posting the effective date of the latest version at the top of this page, at which point any changes will become
@@ -395,6 +395,6 @@ immediately effective. It is your responsibility to check for updates, as your c
 Products after the Privacy Policy is amended will constitute your acceptance and agreement to continue to be bound by
 the Privacy Policy as of the last updated date indicated at the top of this page.
 
-## ALTERNATIVE FORMS
+## Alternative forms
 
 You may print this Privacy Policy by using the "Print" function on your browser.
