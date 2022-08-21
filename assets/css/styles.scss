@@ -204,11 +204,12 @@ $utilities: (
 // ---------------------------------------------------------------------------------
 $link-color: $body-color;
 $link-font-weight: $font-weight-normal + 100;
+$link-letter-spacing: $letter-spacing-base + 0.01em;
 $link-decoration: none;
+$link-text-transform: uppercase;
+$link-shade-percentage: 0;
 $link-hover-color: $text-muted;
 $link-hover-decoration: none;
-$link-letter-spacing: $letter-spacing-base + 0.01em;
-$link-shade-percentage: 0;
 // ---------------------------------------------------------------------------------
 // G) Custom
 // ---------------------------------------------------------------------------------
@@ -276,6 +277,7 @@ h6 {
 a {
   font-weight: $link-font-weight;
   letter-spacing: $link-letter-spacing;
+  text-transform: $link-text-transform;
 }
 
 blockquote {
