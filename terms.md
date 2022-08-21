@@ -3,7 +3,7 @@ layout: "post"
 title: "Terms & Conditions"
 ---
 
-# Terms and Conditions
+# Terms and conditions
 
 Last Updated on {{ site.time | date_to_string: "ordinal", "US" }}
 
