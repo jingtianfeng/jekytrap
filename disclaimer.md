@@ -16,7 +16,7 @@ provides visitors information on the website as a public service, subject to the
 Disclaimer"). The term "you" refers to any visitor, viewer or user of the website and/or any user of any free or paid
 program, product, course or service of the Company (each, a "Product").
 
-## GENERAL DISCLAIMER
+## General disclaimer
 
 The content on this website is provided to you “as is” and is intended to serve as general information. While we strive
 to provide you with quality content, we give no representation or warranty that the content is accurate, complete,
@@ -26,7 +26,7 @@ and use of any Products is solely at your own risk. This Disclaimer was created 
 of [Plug and Law](https://plugandlaw.com/privacy-policy-generator)
 and [Privacy Policy Solutions](https://privacypolicysolutions.com).
 
-## NOT PROFESSIONAL ADVICE
+## Not professional advice
 
 This website does not contain professional advice, nor is any professional-client relationship established with you
 through your use of this website. Any information found on or derived from this website should not be a substitute for
@@ -34,7 +34,7 @@ and cannot be relied on as any legal, tax, real estate, medical, financial, risk
 professional advice. If you require any such advice, please consult with a licensed or knowledgeable professional in
 that area before taking any action.
 
-## YOUR RESPONSIBILITY
+## Your responsibility
 
 It is your responsibility to take all necessary steps to independently verify and ascertain that any information you
 choose to rely on from, access through or take action based upon this website or our Products is accurate, as we are not
@@ -42,7 +42,7 @@ responsible for your use of the information obtained from or accessed through th
 expressed on this website are solely the personal views of the author and do not necessarily reflect the views of the
 Company.
 
-## EARNINGS DISCLAIMER
+## Earnings disclaimer
 
 While we may, on this website, through any of our Products or in our communications, reference certain results or
 outcomes, you agree and acknowledge that information about these results or outcomes are received from third parties and
@@ -51,7 +51,7 @@ results or outcomes. You agree and acknowledge that these results are not guaran
 individual outcomes may vary. Please do not rely on these results or outcomes in using the website or purchasing any
 Products.
 
-## THIRD PARTY LINKS
+## Third party links
 
 Our website may contain links to third party websites, for example, through hyperlinks we provide or through banners or
 advertisements, solely as a convenience to you. However, we are not responsible for any content found on or accessed
@@ -61,7 +61,7 @@ third parties and assume no responsibility for any third party websites or any o
 on such websites, even if you access a third party website through a link on this website. If you choose to access a
 third party website, it is solely at your own risk.
 
-## TESTIMONIALS DISCLAIMER
+## Testimonials disclaimer
 
 This website may contain testimonials by users of our Products. Each testimonial reflects solely the personal view,
 opinion or experience of the individual providing the testimonial and does not reflect our views or opinions. You should
@@ -72,7 +72,7 @@ guarantee the accuracy of any information provided in such testimonials.
 Except for correcting spelling and grammatical errors, each testimonial appears verbatim as we have received it. We do
 not pay or provide any form of compensation to individuals for providing testimonials.
 
-## AFFILIATE DISCLAIMER
+## Affiliate disclaimer
 
 This website may contain links to affiliate websites. When you click on and/or make a purchase through an affiliate link
 placed on our website, we may receive a small commission or other form of compensation at no additional cost to you.
@@ -80,26 +80,26 @@ Please assume that any links contained on our website are affiliate links. Our u
 the products, services and websites that we share with you. This Disclaimer applies to all of the various means we use
 to communicate with you, including via this website, email, phone, social media, our Products or otherwise.
 
-## AMAZON AFFILIATE DISCLAIMER
+## Amazon affiliate disclaimer
 
 We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide
 a means for us to earn fees by linking to Amazon.com and affiliated sites. When you click on and/or make a purchase
 through a link to an Amazon affiliate link placed on our website, we may receive a small commission at no additional
 cost to you.
 
-## SPONSORED POSTS
+## Sponsored posts
 
 This website may contain sponsored posts or reviews, where we receive a form of compensation in exchange for publishing
 a post or a review of a product or service. We may also receive a small commission or other form of compensation at no
 additional cost to you if you click on and/or make a purchase through an affiliate link in a sponsored post or review.
 
-## FAIR USE DISCLAIMER
+## Fair use disclaimer
 
 We may use copyrighted material on our website without specific authorization. In these instances, we do so because we
 believe such use constitutes fair use of any such copyrighted material under Section 107 of the United States copyright
 law.
 
-## CHANGES TO THE DISCLAIMER
+## Changes to the disclaimer
 
 We reserve the right to amend this Disclaimer at any time without notice to you. We will alert you to any changes by
 posting the effective date of the latest version at the top of this page, at which point any changes will become
