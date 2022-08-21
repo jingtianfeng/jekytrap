@@ -196,9 +196,7 @@ $letter-spacings: (
 $utilities: (
         "letter-spacing": (
                 property: letter-spacing,
-                values: (
-                        map-merge($letter-spacings, negativify-map($letter-spacings))
-                )
+                values: map-merge($letter-spacings, negativify-map($letter-spacings))
         )
 );
 // ---------------------------------------------------------------------------------
