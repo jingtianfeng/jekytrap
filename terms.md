@@ -31,14 +31,14 @@ immediately effective. It is your responsibility to check for updates, as your c
 Products after this Agreement is amended will constitute your acceptance and agreement to continue to be bound by this
 Agreement, as amended.
 
-## CANADA AND OVER 18 USE ONLY
+## Canada and over 18 use only
 
 The website is intended only for individuals over the age of 18 residing in Canada. We do not make any representations
 that this website is appropriate or available for use outside of Canada. If you access the website or any of our
 Products from outside of Canada, you do so at your own risk and on your own initiative. It is solely your responsibility
 to ensure compliance with applicable laws in your specific jurisdiction.
 
-## GUIDELINES FOR USE
+## Guidelines for use
 
 We have established certain guidelines to keep our community safe (“Guidelines”). By visiting or using the website or
 any Product, you agree to abide by these Guidelines, which are as follows:
@@ -77,7 +77,7 @@ any Product, you agree to abide by these Guidelines, which are as follows:
 We reserve the right to deny you access to the website and any Products in our sole discretion at any time and for any
 reason.
 
-## INTELLECTUAL PROPERTY
+## Intellectual property
 
 The website and its content and all Products, including but not limited to videos, coursework, training modules,
 photographs, sound recordings, images, digital content, material available as a free download, software, text, graphics
@@ -97,7 +97,7 @@ It is in our sole discretion to give written consent for you to reproduce, resel
 derivative works, translate, transmit, post, republish, copy or otherwise use our Intellectual Property. If you have any
 questions, please contact us using the contact information provided below.
 
-## NO WARRANTIES
+## No warranties
 
 Your use of this website and any Products is entirely at your risk, as the website and our Products are provided on an
 “as is” and “as available” basis. We do not make any express or implied warranties or representations relating to the
@@ -108,7 +108,7 @@ and any content is free from computer viruses or other potentially harmful or de
 do not permit the exclusion of certain warranties. As such, some of the exclusions referenced in this section may not
 apply to you.
 
-## LIMITATION OF LIABILITY
+## Limitation of liability
 
 To the fullest extent permissible by law, the Company and our directors, contractors, successors, joint venture
 partners, shareholders, agents, affiliates, officers, employees, assignees and licensees, as applicable, shall not be
@@ -122,7 +122,7 @@ occurring.
 This limitation of liability applies whether such liability arises from tort, negligence, breach of contract or any
 other legal theory of liability.
 
-## INDEMNIFICATION
+## Indemnification
 
 You shall indemnify, defend and hold harmless the Company and our affiliates, and our respective directors, contractors,
 successors, joint venture partners, shareholders, agents, affiliates, officers, employees, assignees and licensees from
@@ -136,7 +136,7 @@ any Claims, and may in our sole discretion assist you, at your expense, in defen
 to assume exclusive control of defending any such Claim, at your expense, including choice of legal counsel. You agree
 to cooperate and assist us in defending any such Claim.
 
-## LIMITED LICENSE
+## Limited license
 
 Notwithstanding any other provisions in this Agreement, if you purchase any Products or download any of our free
 Products, we grant you a limited, non-sublicensable, non-transferable, non-exclusive, revocable license (“License”) to
@@ -149,12 +149,12 @@ under this Agreement. If we discover that any violation of the terms and conditi
 including violation of the License granted to you, we reserve the right to terminate your access to the Products and
 invoice you for any damages.
 
-## CONFIDENTIAL INFORMATION
+## Confidential information
 
 Please do not upload, post, send, email, or otherwise make available any material that contains any confidential
 information.
 
-## FEES
+## Fees
 
 When you purchase any Product through this website, you are responsible for all applicable fees and taxes. It is your
 responsibility to provide complete, accurate and up-to-date billing and credit card information. If you are on a payment
@@ -162,24 +162,24 @@ plan or recurring payment, it is your responsibility to keep an up-to-date payme
 method is declined or expired, you hereby agree to pay all applicable fees and taxes due upon demand. You also agree to
 pay all costs of collection, including but not limited to attorney’s fees, on any outstanding balance.
 
-## WEBSITE AVAILABILITY
+## Website availability
 
 Your access to the website or Products may be occasionally restricted, such as when we need to make repairs or are
 introducing new features. Your access to the website or Products may also become permanently disabled, such as if we
 decide to terminate the operation of the website or Products. We cannot guarantee that you will have continuous access
 to the website or Products.
 
-## NO REFUNDS
+## No refunds
 
 We reserve the right to change our refund policy at any time. We do not offer refunds for any of our Products under any
 circumstances. We believe we provide products and services that are high-quality and at a reasonable price point.
 
-## GOVERNING LAW
+## Governing law
 
 All matters relating to or arising out of this Agreement shall be governed by and construed and interpreted under the
 laws of Canada, without regard to conflicts of laws principles that would require the application of any other law.
 
-## BINDING ARBITRATION
+## Binding arbitration
 
 In the event that either party asserts that there is a dispute arising out of or relating to this Agreement, such party
 shall first notify the other party in writing, specifying the nature of the dispute and scheduling a meeting to attempt
@@ -216,14 +216,14 @@ as a judgment and enforced by any court of competent jurisdiction.
 TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE TO WAIVE YOUR RIGHT TO TRIAL BY JURY IN ANY PROCEEDINGS, ACTION OR
 COUNTERCLAIM.
 
-## INJUNCTIVE OR OTHER EQUITABLE RELIEF
+## Injunctive or other equitable relief
 
 We may seek injunctive or other equitable relief that is necessary to protect our rights and intellectual property. All
 actions or proceedings related to this Agreement that are not subject to binding arbitration will be brought solely in
 the courts of Canada. You hereby unconditionally and irrevocably consent to the personal and subject matter jurisdiction
 of those courts for purposes of any such action.
 
-## CLASS ACTION WAIVER
+## Class action waiver
 
 You agree that any dispute arising out of or relating to this Agreement shall be solely between you and the Company.
 
@@ -231,24 +231,24 @@ YOU AGREE TO WAIVE THE RIGHT TO LITIGATE IN COURT OR ARBITRATE ANY CLAIM OR DISP
 YOU WILL ONLY MAKE CLAIMS AGAINST US IN YOUR INDIVIDUAL CAPACITY, AND CANNOT MAKE CLAIMS AGAINST US AS A MEMBER OF A
 CLASS OR AS A REPRESENTATIVE.
 
-## ENTIRE AGREEMENT
+## Entire agreement
 
 This Agreement, the Privacy Policy and Disclaimer contain the entire agreement between you and the Company with respect
 to the subject matter hereof and thereof and supersede all prior agreements and undertakings, both written and oral,
 with respect thereto.
 
-## TERMINATION OF AGREEMENT
+## Termination of agreement
 
 We reserve the right, in our sole discretion, to terminate this Agreement and to terminate, restrict, deny, or suspend
 your access to the website and all Products at any time and for any purpose without prior notice. We also reserve the
 right to discontinue any or all of the website or Products at any time and for any purpose without prior notice.
 
-## SEVERABILITY
+## Severability
 
 If any term or other provision of this Agreement is held to be invalid, prohibited or unenforceable under applicable
 law, the other provisions of this Agreement will remain in full force and effect.
 
-## MISCELLANEOUS
+## Miscellaneous
 
 Our failure to act on or delay in exercising any privilege, power or right under this Agreement will not operate as a
 waiver of such privilege, power or right, and no single or partial exercise of any such privilege, power or right will
