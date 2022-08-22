@@ -113,15 +113,15 @@ $headings-font-weight: $font-weight-normal;
 $headings-line-height: 1;
 $headings-margin-bottom: 0;
 // ---------------------------------------------------------------------------------
-$h1-font-size: $spacer * $spacer-ratio;
+$h1-font-size: $spacer * $spacer-ratio * 2 * $spacer-ratio-sqrt-inverse;
 $h1-letter-spacing: -0.01em;
-$h1-line-height: 2;
-$h1-text-transform: uppercase;
+$h1-line-height: $spacer-ratio-sqrt;
+$h1-text-transform: none;
 // ---------------------------------------------------------------------------------
-$h2-font-size: $h1-font-size;
-$h2-letter-spacing: $h1-letter-spacing;
-$h2-line-height: $h1-line-height;
-$h2-text-transform: capitalize;
+$h2-font-size: $spacer * $spacer-ratio;
+$h2-letter-spacing: -0.01em;
+$h2-line-height: 2;
+$h2-text-transform: none;
 // ---------------------------------------------------------------------------------
 $h3-font-size: $spacer * $spacer-ratio-sqrt;
 $h3-letter-spacing: 0;
