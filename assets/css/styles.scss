@@ -133,15 +133,15 @@ $h4-letter-spacing: $h3-letter-spacing;
 $h4-line-height: $h3-line-height;
 $h4-text-transform: capitalize;
 // ---------------------------------------------------------------------------------
-$h5-font-size: $spacer * $spacer-ratio-sqrt;
-$h5-letter-spacing: 0;
-$h5-line-height: $spacer-ratio-sqrt;
-$h5-text-transform: lowercase;
+$h5-font-size: $font-size-base;
+$h5-letter-spacing: $letter-spacing-base;
+$h5-line-height: $line-height-base;
+$h5-text-transform: uppercase;
 // ---------------------------------------------------------------------------------
 $h6-font-size: $h5-font-size;
 $h6-letter-spacing: $h5-letter-spacing;
 $h6-line-height: $h5-line-height;
-$h6-text-transform: lowercase;
+$h6-text-transform: capitalize;
 // ---------------------------------------------------------------------------------
 $display-font-sizes: (
         1: map-get($spacers, 9),
