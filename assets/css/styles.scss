@@ -54,7 +54,7 @@ $color-contrast-light: $body-color;
 $spacer: 1rem;
 $spacer-ratio: 1.75;
 $spacer-ratio-sqrt: 1.323;
-$spacer-ratio-sqrt-inverse: 0.756;
+$spacer-ratio-sqrt-inverse: .756;
 $spacers: (
         0: 0,
         1: $spacer * .5,
@@ -94,7 +94,7 @@ $font-size-root: 16px;
 $font-size-base: $spacer;
 $font-size-sm: $spacer * .875;
 $font-size-lg: $spacer * 1.125;
-$letter-spacing-base: 0.01em;
+$letter-spacing-base: .01em;
 // ---------------------------------------------------------------------------------
 $line-height-base: $spacer-ratio;
 $line-height-sm: $spacer-ratio-sqrt;
@@ -114,12 +114,12 @@ $headings-line-height: 1;
 $headings-margin-bottom: 0;
 // ---------------------------------------------------------------------------------
 $h1-font-size: $spacer * $spacer-ratio * 2 * $spacer-ratio-sqrt-inverse;
-$h1-letter-spacing: -0.01em;
+$h1-letter-spacing: -.01em;
 $h1-line-height: $spacer-ratio-sqrt;
 $h1-text-transform: none;
 // ---------------------------------------------------------------------------------
 $h2-font-size: $spacer * $spacer-ratio * 2 * $spacer-ratio-sqrt-inverse;
-$h2-letter-spacing: -0.01em;
+$h2-letter-spacing: -.01em;
 $h2-line-height: $spacer-ratio-sqrt;
 $h2-text-transform: none;
 // ---------------------------------------------------------------------------------
@@ -166,7 +166,7 @@ $blockquote-footer-font-size: $font-size-base;
 // ---------------------------------------------------------------------------------
 $paragraph-margin-bottom: 0;
 $small-font-size: $font-size-sm;
-$mark-padding: 0.25em;
+$mark-padding: .25em;
 $mark-bg: $text-muted;
 // ---------------------------------------------------------------------------------
 // E) Utilities
@@ -190,15 +190,15 @@ $border-radius-lg: .375rem;
 $border-radius-pill: 50rem;
 // ---------------------------------------------------------------------------------
 $letter-spacings: (
-        1: 0.01em,
-        2: 0.02em,
-        3: 0.03em,
-        4: 0.04em,
-        5: 0.05em,
-        6: 0.06em,
-        7: 0.07em,
-        8: 0.08em,
-        9: 0.09em,
+        1: .01em,
+        2: .02em,
+        3: .03em,
+        4: .04em,
+        5: .05em,
+        6: .06em,
+        7: .07em,
+        8: .08em,
+        9: .09em,
 );
 $utilities: (
         "letter-spacing": (
@@ -211,7 +211,7 @@ $utilities: (
 // ---------------------------------------------------------------------------------
 $link-color: $body-color;
 $link-font-weight: $font-weight-normal + 100;
-$link-letter-spacing: $letter-spacing-base + 0.01em;
+$link-letter-spacing: $letter-spacing-base + .01em;
 $link-decoration: none;
 $link-text-transform: uppercase;
 $link-shade-percentage: 0;
