@@ -154,8 +154,8 @@ $display-font-sizes: (
 $display-font-weight: $font-weight-light;
 $display-line-height: 1;
 // ---------------------------------------------------------------------------------
-$lead-font-size: $h2-font-size;
-$lead-font-weight: $font-weight-normal;
+$lead-font-size: $font-size-base;
+$lead-font-weight: $font-weight-bold;
 // ---------------------------------------------------------------------------------
 $blockquote-font-size: $spacer * $spacer-ratio-sqrt;
 $blockquote-letter-spacing: 0;
