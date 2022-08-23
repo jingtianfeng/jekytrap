@@ -157,9 +157,9 @@ $display-line-height: 1;
 $lead-font-size: $h2-font-size;
 $lead-font-weight: $font-weight-normal;
 // ---------------------------------------------------------------------------------
-$blockquote-font-size: $h2-font-size;
-$blockquote-letter-spacing: $h2-letter-spacing;
-$blockquote-line-height: $h2-line-height;
+$blockquote-font-size: $spacer * $spacer-ratio-sqrt;
+$blockquote-letter-spacing: 0;
+$blockquote-line-height: $spacer-ratio-sqrt;
 $blockquote-margin-y: 0;
 $blockquote-footer-color: $text-muted;
 $blockquote-footer-font-size: $font-size-base;
