@@ -49,25 +49,25 @@ elemBGContainer.tabIndex = "-1";
 elemBGContainer.ariaDisabled = "true";
 // --------------------------------------------------------------------------
 const randomizeMinMaxStep = (nbrMin, nbrMax, nbrStep) => {
-	if (nbrStep <= 0) {
-		return nbrMin;
-	} else if (nbrStep === 1) {
-		return Math.random() < 0.5 ? nbrMin : nbrMax;
-	} else {
-		nbrStep = Math.min(nbrStep, 100);
-		return nbrMin + Math.trunc(
-			Math.round(Math.random()*nbrStep) / nbrStep * 
-			100
-		) / 100 * (nbrMax - nbrMin);
-	}
+    if (nbrStep <= 0) {
+        return nbrMin;
+    } else if (nbrStep === 1) {
+        return Math.random() < 0.5 ? nbrMin : nbrMax;
+    } else {
+        nbrStep = Math.min(nbrStep, 100);
+        return nbrMin + Math.trunc(
+            Math.round(Math.random() * nbrStep) / nbrStep *
+            100
+        ) / 100 * (nbrMax - nbrMin);
+    }
 }
 // --------------------------------------------------------------------------
 let arrParticle = [];
 // --------------------------------------------------------------------------
 for (let i = 0; i < NBR_PARTICLE_AMOUNT; i++) {
-	let elemParticle = document.createElement("div");
-	elemParticle.style.position = "absolute";
-	elemParticle.style.width = `${
+    let elemParticle = document.createElement("div");
+    elemParticle.style.position = "absolute";
+    elemParticle.style.width = `${
 		Math.round(
 			randomizeMinMaxStep(
 				NBR_PARTICLE_WIDTH_MIN, 
@@ -82,9 +82,9 @@ for (let i = 0; i < NBR_PARTICLE_AMOUNT; i++) {
 			)
 		)
 	}px`;
-	elemParticle.style.height = BOOL_PARTICLE_HAS_SIDES_EQUAL? 
-		elemParticle.style.width : 
-		`${
+    elemParticle.style.height = BOOL_PARTICLE_HAS_SIDES_EQUAL ?
+        elemParticle.style.width :
+        `${
 			Math.round(
 				randomizeMinMaxStep(
 					NBR_PARTICLE_HEIGHT_MIN, 
@@ -99,12 +99,12 @@ for (let i = 0; i < NBR_PARTICLE_AMOUNT; i++) {
 				)
 			)
 		}px`;
-	elemParticle.style.backgroundColor = ARR_PARTICLE_BG_COLOR[
-		Math.round(
-			Math.random() * (ARR_PARTICLE_BG_COLOR.length - 1)
-		)
-	];
-	elemParticle.style.borderWidth = `${BOOL_PARTICLE_IS_BORDERLESS ? 
+    elemParticle.style.backgroundColor = ARR_PARTICLE_BG_COLOR[
+        Math.round(
+            Math.random() * (ARR_PARTICLE_BG_COLOR.length - 1)
+        )
+    ];
+    elemParticle.style.borderWidth = `${BOOL_PARTICLE_IS_BORDERLESS ? 
 			0 : 
 			Math.round(
 				NBR_PARTICLE_BORDER_WIDTH_MIN + 
@@ -112,9 +112,9 @@ for (let i = 0; i < NBR_PARTICLE_AMOUNT; i++) {
 				(NBR_PARTICLE_BORDER_WIDTH_MAX - NBR_PARTICLE_BORDER_WIDTH_MIN)
 			)
 	}px`;
-	elemParticle.style.borderStyle = STR_PARTICLE_BORDER_STYLE;
-	elemParticle.style.borderColor = STR_PARTICLE_BORDER_COLOR;
-	elemParticle.style.borderRadius = `${BOOL_PARTICLE_IS_ROUNDED ? 
+    elemParticle.style.borderStyle = STR_PARTICLE_BORDER_STYLE;
+    elemParticle.style.borderColor = STR_PARTICLE_BORDER_COLOR;
+    elemParticle.style.borderRadius = `${BOOL_PARTICLE_IS_ROUNDED ? 
 			(
 				Math.max(NBR_PARTICLE_WIDTH_MAX, NBR_PARTICLE_HEIGHT_MAX) + 
 				NBR_PARTICLE_DEPTH_OFFSET
@@ -125,7 +125,7 @@ for (let i = 0; i < NBR_PARTICLE_AMOUNT; i++) {
 				NBR_PARTICLE_BORDER_RADIUS_MIN
 			)
 	}px`;
-	elemParticle.style.opacity = `${BOOL_PARTICLE_IS_OPAQUE ? 
+    elemParticle.style.opacity = `${BOOL_PARTICLE_IS_OPAQUE ? 
 			1 : 
 			Math.trunc(
 				(
@@ -135,52 +135,50 @@ for (let i = 0; i < NBR_PARTICLE_AMOUNT; i++) {
 				100
 			) / 100
 	}`;
-	elemParticle.style.top = `${BOOL_PARTICLE_IS_AT_TOP ? 
+    elemParticle.style.top = `${BOOL_PARTICLE_IS_AT_TOP ? 
 			0 : 
 			Math.round(NBR_CANVAS_HEIGHT*Math.random())
 	}px`;
-	elemParticle.style.left = `${BOOL_PARTICLE_IS_AT_LEFT ? 
+    elemParticle.style.left = `${BOOL_PARTICLE_IS_AT_LEFT ? 
 			0 : 
 			Math.round(NBR_CANVAS_WIDTH*Math.random())
 	}px`;
-	arrParticle.push(elemParticle);
+    arrParticle.push(elemParticle);
 }
 // --------------------------------------------------------------------------
 for (const elemParticle of arrParticle) {
-	elemBGContainer.appendChild(elemParticle);
+    elemBGContainer.appendChild(elemParticle);
 }
 // ==========================================================================
 // 3. GSAP Animation
 // --------------------------------------------------------------------------
 if (!!gsap) {
-	console.log(`GSAP \t\t ${gsap.version}`);
-	gsap.set(
-		arrParticle, 
-		{
-			transformOrigin: "top left",
-			skewY: -70,
-		}
-	);
-	gsap.to(
-		arrParticle, 
-		{
-			x: "random(-100, 100, 10)",
-			opacity: "+=0.10",
-			repeat: -1,
-			repeatRefresh: true,
-			duration: 10,
-			yoyo: true,
-			ease: "power1.inOut",
-		}
-	);
+    console.log(`GSAP \t\t ${gsap.version}`);
+    gsap.set(
+        arrParticle, {
+            transformOrigin: "top left",
+            skewY: -70,
+        }
+    );
+    gsap.to(
+        arrParticle, {
+            x: "random(-100, 100, 10)",
+            opacity: "+=0.10",
+            repeat: -1,
+            repeatRefresh: true,
+            duration: 10,
+            yoyo: true,
+            ease: "power1.inOut",
+        }
+    );
 } else {
-	console.log("GSAP \t\t ERROR");
+    console.log("GSAP \t\t ERROR");
 }
 // ==========================================================================
 // 4. Bootstrap Plugins
 // --------------------------------------------------------------------------
 if (!!bootstrap) {
-	console.log(`Bootstrap \t ${bootstrap.Alert.VERSION}`);
+    console.log(`Bootstrap \t ${bootstrap.Alert.VERSION}`);
 } else {
-	console.log("Bootstrap \t ERROR");
+    console.log("Bootstrap \t ERROR");
 }
