@@ -94,8 +94,8 @@ $container-max-widths: (
 $font-family-sans-serif: "Inter", "Helvetica Neue", sans-serif;
 $font-size-root: 16px;
 $font-size-base: $spacer;
-$font-size-sm: $spacer * .875;
-$font-size-lg: $spacer * 1.125;
+$font-size-sm: $spacer * $spacer-ratio-half;
+$font-size-lg: $spacer * $spacer-ratio-sqrt;
 $letter-spacing-base: .01em;
 // ---------------------------------------------------------------------------------
 $line-height-base: $spacer-ratio;
@@ -112,7 +112,7 @@ $headings-color: $body-color;
 $headings-font-family: $font-family-sans-serif;
 $headings-font-style: normal;
 $headings-font-weight: $font-weight-normal;
-$headings-line-height: 1;
+$headings-line-height: $spacer-ratio-sqrt;
 $headings-margin-bottom: 0;
 // ---------------------------------------------------------------------------------
 $h1-font-size: $spacer * $spacer-ratio * 2 * $spacer-ratio-sqrt-inverse;
