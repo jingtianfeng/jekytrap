@@ -223,6 +223,23 @@ $link-shade-percentage: 0;
 $link-hover-color: $text-muted;
 $link-hover-decoration: none;
 // ---------------------------------------------------------------------------------
+$carousel-control-color: $body-color;
+$carousel-control-width: 11.63%;
+$carousel-control-opacity: .9;
+$carousel-control-hover-opacity: 1;
+$carousel-control-icon-width: $spacer * $spacer-ratio * 2;
+$carousel-indicator-width: $spacer * $spacer-ratio;
+$carousel-indicator-height: 4px;
+$carousel-indicator-hit-area-height: 14px;
+$carousel-indicator-spacer: 4px;
+$carousel-indicator-opacity: .5;
+$carousel-indicator-active-bg: $carousel-control-color;
+$carousel-indicator-active-opacity: 1;
+$carousel-caption-width: 48.84%;
+$carousel-caption-color: $body-color;
+$carousel-caption-padding-y: $spacer * $spacer-ratio;
+$carousel-caption-spacer: $carousel-caption-padding-y;
+// ---------------------------------------------------------------------------------
 // G) Custom
 // ---------------------------------------------------------------------------------
 $prose-max-width: 72ch;
