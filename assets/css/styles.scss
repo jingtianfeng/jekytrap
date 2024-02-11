@@ -58,16 +58,16 @@ $spacer-ratio-half: .875;
 $spacer-ratio-sqrt: 1.323;
 $spacer-ratio-sqrt-inverse: .756;
 $spacers: (
-        0: 0,
-        1: $spacer * $spacer-ratio-min,
-        2: $spacer * $spacer-ratio-half,
-        3: $spacer * $spacer-ratio-sqrt,
-        4: $spacer * $spacer-ratio,
-        5: $spacer * $spacer-ratio * 2,
-        6: $spacer * $spacer-ratio * 3,
-        7: $spacer * $spacer-ratio * 4,
-        8: $spacer * $spacer-ratio * 8,
-        9: $spacer * $spacer-ratio * 16,
+    0: 0,
+    1: $spacer * $spacer-ratio-min,
+    2: $spacer * $spacer-ratio-half,
+    3: $spacer * $spacer-ratio-sqrt,
+    4: $spacer * $spacer-ratio,
+    5: $spacer * $spacer-ratio * 2,
+    6: $spacer * $spacer-ratio * 3,
+    7: $spacer * $spacer-ratio * 4,
+    8: $spacer * $spacer-ratio * 8,
+    9: $spacer * $spacer-ratio * 16,
 );
 // ---------------------------------------------------------------------------------
 // C) Layout
@@ -76,19 +76,19 @@ $grid-columns: 4;
 $grid-row-columns: 4;
 $grid-gutter-width: $spacer * $spacer-ratio;
 $grid-breakpoints: (
-        xs: 0,
-        sm: 576px,
-        md: 768px,
-        lg: 992px,
-        xl: 1316px,
+    xs: 0,
+    sm: 576px,
+    md: 768px,
+    lg: 992px,
+    xl: 1316px,
 );
 // ---------------------------------------------------------------------------------
 $container-padding-x: $grid-gutter-width * 2;
 $container-max-widths: (
-        sm: 540px,
-        md: 720px,
-        lg: 960px,
-        xl: 1260px,
+    sm: 540px,
+    md: 720px,
+    lg: 960px,
+    xl: 1260px,
 );
 // ---------------------------------------------------------------------------------
 // D) Typography
@@ -150,10 +150,10 @@ $h6-line-height: $spacer-ratio-sqrt;
 $h6-text-transform: none;
 // ---------------------------------------------------------------------------------
 $display-font-sizes: (
-        1: map-get($spacers, 9),
-        2: map-get($spacers, 8),
-        3: map-get($spacers, 7),
-        4: map-get($spacers, 6),
+    1: map-get($spacers, 9),
+    2: map-get($spacers, 8),
+    3: map-get($spacers, 7),
+    4: map-get($spacers, 6),
 );
 $display-font-weight: $font-weight-normal;
 $display-line-height: 1;
@@ -177,15 +177,15 @@ $mark-bg: $text-muted;
 // ---------------------------------------------------------------------------------
 $border-width: 2px;
 $border-widths: (
-        1: 1px,
-        2: 2px,
-        3: 3px,
-        4: 4px,
-        5: 5px,
-        6: 6px,
-        7: 7px,
-        8: 8px,
-        9: 9px,
+    1: 1px,
+    2: 2px,
+    3: 3px,
+    4: 4px,
+    5: 5px,
+    6: 6px,
+    7: 7px,
+    8: 8px,
+    9: 9px,
 );
 $border-color: $text-muted;
 $border-radius: .25rem;
@@ -194,22 +194,22 @@ $border-radius-lg: .375rem;
 $border-radius-pill: 50rem;
 // ---------------------------------------------------------------------------------
 $letter-spacings: (
-        0: 0,
-        1: .01em,
-        2: .02em,
-        3: .03em,
-        4: .04em,
-        5: .05em,
-        6: .06em,
-        7: .07em,
-        8: .08em,
-        9: .09em,
+    0: 0,
+    1: .01em,
+    2: .02em,
+    3: .03em,
+    4: .04em,
+    5: .05em,
+    6: .06em,
+    7: .07em,
+    8: .08em,
+    9: .09em,
 );
 $utilities: (
-        "letter-spacing": (
-                property: letter-spacing,
-                values: map-merge($letter-spacings, negativify-map($letter-spacings))
-        )
+    "letter-spacing": (
+        property: letter-spacing,
+        values: map-merge($letter-spacings, negativify-map($letter-spacings))
+    )
 );
 // ---------------------------------------------------------------------------------
 // F) Elements & Components
@@ -248,68 +248,68 @@ $prose-img-border-radius: $border-radius;
 @import "bootstrap/reboot";
 // ---------------------------------------------------------------------------------
 body {
-  letter-spacing: $letter-spacing-base;
+    letter-spacing: $letter-spacing-base;
 }
 
 h1 {
-  letter-spacing: $h1-letter-spacing;
-  line-height: $h1-line-height;
-  text-transform: $h1-text-transform;
+    letter-spacing: $h1-letter-spacing;
+    line-height: $h1-line-height;
+    text-transform: $h1-text-transform;
 }
 
 h2 {
-  letter-spacing: $h2-letter-spacing;
-  line-height: $h2-line-height;
-  text-transform: $h2-text-transform;
+    letter-spacing: $h2-letter-spacing;
+    line-height: $h2-line-height;
+    text-transform: $h2-text-transform;
 }
 
 h3 {
-  letter-spacing: $h3-letter-spacing;
-  line-height: $h3-line-height;
-  text-transform: $h3-text-transform;
+    letter-spacing: $h3-letter-spacing;
+    line-height: $h3-line-height;
+    text-transform: $h3-text-transform;
 }
 
 h4 {
-  letter-spacing: $h4-letter-spacing;
-  line-height: $h4-line-height;
-  text-transform: $h4-text-transform;
+    letter-spacing: $h4-letter-spacing;
+    line-height: $h4-line-height;
+    text-transform: $h4-text-transform;
 }
 
 h5 {
-  letter-spacing: $h5-letter-spacing;
-  line-height: $h5-line-height;
-  text-transform: $h5-text-transform;
+    letter-spacing: $h5-letter-spacing;
+    line-height: $h5-line-height;
+    text-transform: $h5-text-transform;
 }
 
 h6 {
-  letter-spacing: $h6-letter-spacing;
-  line-height: $h6-line-height;
-  text-transform: $h6-text-transform;
+    letter-spacing: $h6-letter-spacing;
+    line-height: $h6-line-height;
+    text-transform: $h6-text-transform;
 }
 
 a {
-  font-weight: $link-font-weight;
-  letter-spacing: $link-letter-spacing;
-  text-transform: $link-text-transform;
+    font-weight: $link-font-weight;
+    letter-spacing: $link-letter-spacing;
+    text-transform: $link-text-transform;
 }
 
 blockquote {
-  letter-spacing: $blockquote-letter-spacing;
-  line-height: $blockquote-line-height;
+    letter-spacing: $blockquote-letter-spacing;
+    line-height: $blockquote-line-height;
 }
 
 ol,
 ul,
 dl {
-  margin: 0;
+    margin: 0;
 }
 
 address {
-  margin: 0;
+    margin: 0;
 }
 
 figure {
-  margin: 0;
+    margin: 0;
 }
 
 // =================================================================================
