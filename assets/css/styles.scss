@@ -369,3 +369,9 @@ figure {
 // 5. NON-BOOTSTRAP
 // ---------------------------------------------------------------------------------
 @import "prose";
+
+.carousel-caption {
+    background-color: rgba(13,13,13,.6);
+    padding-left: $spacer * $spacer-ratio;
+    padding-right: $spacer * $spacer-ratio;
+}
