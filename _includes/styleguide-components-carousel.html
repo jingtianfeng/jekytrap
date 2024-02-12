@@ -1,0 +1,43 @@
+<div id="styleguide-components-carousel"
+     class="carousel slide"
+     data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <button type="button"
+                data-bs-target="#styleguide-components-carousel"
+                data-bs-slide-to="0"
+                class="active"
+                aria-current="true"
+                aria-label="Slide 1">
+        </button>
+        {% include comp-carousel-indicator.html
+           target="#styleguide-components-carousel"
+           index="1"
+           label="Slide 2" %}
+        {% include comp-carousel-indicator.html
+           target="#styleguide-components-carousel"
+           index="2"
+           label="Slide 3" %}
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="{{ '/assets/img/placeholder-carousel.png' | relative_url }}"
+                 alt=""
+                 width="1204"
+                 height="560"
+                 loading="lazy"
+                 class="d-block w-100 img-fluid" />
+            <div class="carousel-caption d-none d-md-block">
+                <p>
+                </p>
+            </div>
+        </div>
+        {% include comp-carousel-item.html
+           src="/assets/img/placeholder-carousel.png"
+           alt="" %}
+        {% include comp-carousel-item.html
+           src="/assets/img/placeholder-carousel.png"
+           alt="" %}
+    </div>
+    {% include comp-carousel-prev-next.html
+       target="#styleguide-components-carousel" %}
+</div>
