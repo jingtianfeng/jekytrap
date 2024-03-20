@@ -1,18 +1,21 @@
 <footer id="footer" 
         class="border-top">
     <div class="container py-7">
-        <div class="row gy-5">
-            <div class="col-4 col-md-2">
-                {% include comp-legal.html %}
-            </div>
-            <div class="col-4 col-md-2">
+        <div class="row gy-7">
+            <div class="col-4 col-xl-1 order-xl-2">
                 {% include comp-signature.html %}
             </div>
-        </div>
-        <div class="mt-7">
-            <a href="#nav-top">
-                Back to top ↑
-            </a>
+            <div class="col-4 col-xl-2 order-xl-1">
+                {% include comp-legal.html %}
+            </div>
+            <div class="col-4 col-xl-1 order-xl-3">
+                <div class="d-flex flex-column align-items-start align-items-xl-end"
+                     style="max-width: 280px;">
+                    <a href="#nav-top">
+                        Back to top
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </footer>
