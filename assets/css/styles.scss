@@ -119,9 +119,9 @@ $headings-font-weight: $font-weight-normal;
 $headings-line-height: $spacer-ratio-sqrt;
 $headings-margin-bottom: 0;
 // ---------------------------------------------------------------------------------
-$h1-font-size: $spacer * $spacer-ratio * 2 * $spacer-ratio-sqrt-inverse;
-$h1-letter-spacing: -.01em;
-$h1-line-height: $spacer-ratio-sqrt;
+$h1-font-size: $spacer * $spacer-ratio * 2;
+$h1-letter-spacing: -.015em;
+$h1-line-height: 1;
 $h1-text-transform: none;
 // ---------------------------------------------------------------------------------
 $h2-font-size: $spacer * $spacer-ratio * 2 * $spacer-ratio-sqrt-inverse;
